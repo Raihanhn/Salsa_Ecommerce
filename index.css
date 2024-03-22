@@ -1,4 +1,4 @@
-/* mobile nav importmobile nav import */
+/* mobile nav import */
 
 * {
   margin: 0;
@@ -24,8 +24,6 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* padding: 20px 35px; */
-  /* margin-left: -40px; */
 }
 
 .navbar {
@@ -33,7 +31,6 @@ header {
 }
 
 .navbar a {
-  /* padding: 8px 17px; */
   color: var(--text-color);
   font-size: 1rem;
   text-transform: uppercase;
@@ -91,7 +88,7 @@ header {
   }
 }
 
-/* mobile nav importmobile nav import */
+/* mobile nav import */
 
 /* navstart */
 .navstart {
