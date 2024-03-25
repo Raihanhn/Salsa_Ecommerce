@@ -4,6 +4,7 @@ body {
 
 .function-library {
   margin-top: 90px;
+  margin-bottom: 40px;
 }
 
 .data-tree {
@@ -4124,7 +4125,6 @@ body {
 }
 .data-tree,
 .function-library {
-  /* background-color: #8ac732; */
 }
 .function-library {
   gap: var(--gap-5xs);
