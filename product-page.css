@@ -2,6 +2,10 @@ body {
   flex: none;
 }
 
+.function-library {
+  margin-top: 90px;
+}
+
 .data-tree {
   align-items: center;
   justify-content: center;
@@ -765,6 +769,7 @@ body {
   align-items: flex-start;
   box-sizing: border-box;
   max-width: 100%;
+  margin-top: 30px;
 }
 .function-factory {
   height: 34px;
@@ -776,7 +781,7 @@ body {
 .container-bank {
   width: 1280px;
   justify-content: flex-start;
-  padding: 0 0 var(--padding-17xl);
+  padding: 0 0 var(--padding-xl);
   text-align: center;
   font-size: var(--text-title-large-size);
   color: var(--color-black);
@@ -1353,9 +1358,6 @@ body {
 }
 .container-pool,
 .state-saver {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
 }
 .state-saver {
   height: 578px;
@@ -4117,7 +4119,7 @@ body {
 }
 .data-tree,
 .function-library {
-  background-color: #8ac732;
+  /* background-color: #8ac732; */
 }
 .function-library {
   gap: var(--gap-5xs);
