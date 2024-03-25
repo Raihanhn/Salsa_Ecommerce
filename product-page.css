@@ -699,6 +699,7 @@ body {
   justify-content: space-between;
   padding: var(--padding-7xs);
   gap: var(--gap-xl);
+  margin-top: 30px;
 }
 .error-sentry,
 .event-emitter,
@@ -769,7 +770,7 @@ body {
   align-items: flex-start;
   box-sizing: border-box;
   max-width: 100%;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .function-factory {
   height: 34px;
@@ -1428,6 +1429,7 @@ body {
   padding: 0 0 var(--padding-8xs);
   box-sizing: border-box;
   gap: var(--gap-xl);
+  margin-top: 25px;
 }
 .graphic-shirt-trendy-design-mo1 {
   width: 260px;
@@ -2053,6 +2055,7 @@ body {
 }
 .frame-parent13 {
   align-self: stretch;
+  margin-top: 35px;
   height: 34px;
   flex-direction: row;
   justify-content: space-between;
@@ -2683,6 +2686,7 @@ body {
 .frame-parent18 {
   align-self: stretch;
   height: 34px;
+  margin-top: 35px;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -3522,6 +3526,7 @@ body {
 }
 .frame-parent27 {
   align-self: stretch;
+  margin-top: 35px;
   height: 34px;
   flex-direction: row;
   justify-content: space-between;
